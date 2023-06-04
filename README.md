@@ -25,8 +25,6 @@ TaskRafalLup is a Spring Boot application that retrieves repository information 
 
 ### Running the Application
 
-1. Clone the repository:
-
    ```shell
    git clone https://github.com/your-username/TaskRafalLup.git
    cd TaskRafalLup
